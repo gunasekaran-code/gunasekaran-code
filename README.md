@@ -92,6 +92,7 @@ contact    : https://gunadev-portfolio.netlify.app
 - **Sri Vani Kalai Mandram** → [sri-vani-kalai-mandram.netlify.app](https://sri-vani-kalai-mandram.netlify.app)
 - **Max Car Wash** → [maxwaterwash.com](https://maxwaterwash.com)
 - **Max Travels** → [maxtravelstamilnadu.com](https://maxtravelstamilnadu.com)
+- **GJ Decoration & Event Management** → [gj-decoration-event.com](https://gj-decoration-event.com)
 
 ---
 
