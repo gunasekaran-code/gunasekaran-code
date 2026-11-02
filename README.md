@@ -82,6 +82,7 @@ contact    : https://gunadev-portfolio.netlify.app
 | [🚗 Max Car Wash](https://github.com/gunasekaran-code/Max-Car-Wash-Client) | Car wash portfolio website | Next.js · Tailwind |
 | [🏫 School Management](https://github.com/gunasekaran-code/school_project) | Django + Ionic school management system | Django · Ionic · TypeScript |
 | [✈️ Max Travels](https://github.com/gunasekaran-code/max-travels-client) | Car rental & travel booking platform | Next.js 15 · TypeScript |
+| 🎉 GJ Decoration & Event Management | Wedding & event planning, decoration, and production platform | Next.js · TypeScript |
 
 ---
 
